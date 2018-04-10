@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.name         = "VisaNet"
-  s.version      = "1.0.0"
+  s.version      = "0.0.1"
   s.summary      = "A summary"
   s.description  = "A description"
   s.homepage     = "https://github.com/luisperezzz/visanet-ios"
