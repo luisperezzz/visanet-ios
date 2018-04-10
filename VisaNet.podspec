@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios 
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.source       = { :http => "https://drive.google.com/uc?export=download&id=1CRhAdIPtk3DVF0KnM8XpZhLhaA2tvxSi" }
+  s.source       = { :http => "https://drive.google.com/uc?export=download&id=1CRhAdIPtk3DVF0KnM8XpZhLhaA2tvxSi", :tag => "0.0.1" }
 
   s.ios.deployment_target = '9.0'
   s.ios.vendored_frameworks = 'VisaNetSDK.framework'
